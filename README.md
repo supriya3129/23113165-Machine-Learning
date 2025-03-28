@@ -57,24 +57,24 @@ This project demonstrates how machine learning (Random Forest Classifier) can pr
    model = RandomForestClassifier(n_estimators=100, random_state=42)
    model.fit(X_train, y_train)
 
-
+```
 
    📊 Results
-Metric	Non-Churn (0)	Churn (1)
-Precision	83%	67%
-Recall	91%	49%
-F1-Score	87%	56%
-Top 5 Important Features:
-
-Monthly Charges
-
-Tenure
-
-Total Charges
-
-Contract Type
-
-Tech Support
+   Metric	Non-Churn (0)	Churn (1)
+   Precision	83%	67%
+   Recall	91%	49%
+   F1-Score	87%	56%
+   Top 5 Important Features:
+   
+   Monthly Charges
+   
+   Tenure
+   
+   Total Charges
+   
+   Contract Type
+   
+   Tech Support
 
 
 💻 How to Use
