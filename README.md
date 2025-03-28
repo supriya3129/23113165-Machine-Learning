@@ -57,7 +57,7 @@ This project demonstrates how machine learning (Random Forest Classifier) can pr
    model = RandomForestClassifier(n_estimators=100, random_state=42)
    model.fit(X_train, y_train)
 
-```
+   ```
 
 
 💻 How to Use
