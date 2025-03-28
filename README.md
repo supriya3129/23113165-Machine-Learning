@@ -76,7 +76,7 @@ This project demonstrates how machine learning (Random Forest Classifier) can pr
 
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook notebooks/codefile-1.ipynb
+   jupyter notebook codefile-1.ipynb
 
    ```
 
